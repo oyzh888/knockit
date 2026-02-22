@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Knock needs microphone access for voice input to create reminders.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Knock uses speech recognition to convert your voice into reminder text.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Knock needs your location to fetch accurate prayer times for your area.</string>
+</dict>
+</plist>
